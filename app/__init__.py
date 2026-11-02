@@ -1,0 +1,1 @@
+"""ArtMe backend package."""
